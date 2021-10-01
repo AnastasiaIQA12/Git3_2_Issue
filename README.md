@@ -20,5 +20,7 @@
 ![68747470733a2f2f692e696d6775722e636f6d2f48635370596b542e706e67](https://user-images.githubusercontent.com/72652840/135629478-49e791d0-e392-4bde-b815-c91f09e0a5a0.png)
 
 **В качестве результата пришлите проверяющему ссылки на два созданных вами Issue**
+
 Issue1: https://github.com/netology-code/git-homeworks-neuro-issues/issues/1929
+
 Issue2: https://github.com/netology-code/git-homeworks-neuro-issues/issues/1930
